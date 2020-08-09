@@ -1,0 +1,1 @@
+Repsonsible Custodianship means that those who make decisions for others can be punished by those that are as powerful or more powerful than themselves if it is determined that they are not treating their dependents in a justifiable way.
