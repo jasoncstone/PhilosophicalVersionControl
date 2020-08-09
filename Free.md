@@ -1,5 +1,5 @@
-AgreeWith: PhilosophicalVersionControl/InformedConsent.md.   
-AgreeWith: PhilosophicalVersionControl/ResponsibleCustodianship.md.   
+AgreeWith: PhilosophicalVersionControl/InformedConsent.md   
+AgreeWith: PhilosophicalVersionControl/ResponsibleCustodianship.md   
 AgreeWith: PhilosophicalVersionControl/TheState.md  
 
 
