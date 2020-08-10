@@ -1,4 +1,4 @@
-Informed Consent will be developed in this file.
+My theory of Informed Consent is still under active development.
 
 Current Suggestions:
 1. It needs to go beyond simply asking the person if they consent whithout a sincere attempt to infom them about what they are consenting to.
