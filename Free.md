@@ -1,6 +1,6 @@
-AgreeWith: PhilosophicalVersionControl/InformedConsent.md   
-AgreeWith: PhilosophicalVersionControl/ResponsibleCustodianship.md   
-AgreeWith: PhilosophicalVersionControl/TheState.md  
+AgreeWith:https://github.com/jasoncstone/PhilosophicalVersionControl/blob/0959ab147a939fd4b5fc272c20923a1e1716fe37/InformedConsent.md
+AgreeWith:https://github.com/jasoncstone/PhilosophicalVersionControl/blob/272c5488dd7ffa39541cd06a79d17d6a41432d33/ResponsibleCustodianship.md
+AgreeWith:https://github.com/jasoncstone/PhilosophicalVersionControl/blob/272c5488dd7ffa39541cd06a79d17d6a41432d33/TheState.md
 
 
 The prefix "Free" can be used to mean the following:
